@@ -1,3 +1,3 @@
-module github.com/Darevski/rebrain-study-utils
+module github.com/Darevski/rebrain-study-utils/v2
 
 go 1.14
